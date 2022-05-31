@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.matrix-container .more-inf {
+.matrix-container .matrix-container__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -40,7 +40,7 @@ body {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.todo-container__add-wrapper {
   display: flex;
 }
 
